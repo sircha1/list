@@ -39,8 +39,8 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15166.ts#checkedby:iptvli
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15182.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png"tvg-shift="20"group-title="FRANCE TNT",TF1 Series-Films
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51148.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png"tvg-shift="21"group-title="FRANCE SPORT",La chaine l’Équipe
-https://live-c.cf.dmcdn.net/sec2(Lan1f2NbhmeEzQcrAkd3Fs-U0PTlmNDo0GZvHn0eaYPbIDjG0eLOCThlar_twVO-qgjxU0Wb39yyaN6CcjjADI4jBzF9-jYthnE4V_pMjaY)/dm/3/x2lefik/d/live-3.m3u8#cell=lcfcstart=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png"tvg-shift="21"group-title="FRANCE SPORT",L’Équipe La chaine
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/eqpetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png"tvg-shift="22"group-title="FRANCE TNT",6TER
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9364.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png"tvg-shift="23"group-title="FRANCE TNT",RMC STORY
