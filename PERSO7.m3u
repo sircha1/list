@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png"tvg-shift="1"group-title="FRANCE TNT",TF1
 http://2.onrev.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/192831#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png"tvg-shift="2"group-title="FRANCE TNT",FRANCE 2
@@ -28,7 +28,7 @@ https://ythls.armelin.one/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png"tvg-shift="14"group-title="FRANCE TNT",FRANCE 4
 http://2.onrev.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202467#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png"tvg-shift="15"group-title="FRANCE INFORMATION",BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png"tvg-shift="16"group-title="FRANCE INFORMATION",CNEWS
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/85#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png"tvg-shift="17"group-title="FRANCE INFORMATION",LCI
@@ -40,7 +40,7 @@ http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15182.ts#checkedby:iptvlister.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png"tvg-shift="20"group-title="FRANCE TNT",TF1 Séries-Films
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51148.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png"tvg-shift="21"group-title="FRANCE SPORT",La chaine l’Équipe
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/102#checkedby:iptvlister.com
+https://live-c.cf.dmcdn.net/sec2(Lan1f2NbhmeEzQcrAkd3Fs-U0PTlmNDo0GZvHn0eaYPbIDjG0eLOCThlar_twVO-qgjxU0Wb39yyaN6CcjjADI4jBzF9-jYthnE4V_pMjaY)/dm/3/x2lefik/d/live-3.m3u8#cell=lcfcstart=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png"tvg-shift="22"group-title="FRANCE TNT",6TER
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9364.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png"tvg-shift="23"group-title="FRANCE TNT",RMC STORY
@@ -533,6 +533,16 @@ http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/11026#checke
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1981#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="432"group-title="BACK UP SPORT",L'ÉQUIPE TV
 http://s2.callofliberty.fr/directd/LEQUIPE/master.m3u8
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP SPORT",lequipe240
+https://live-c.cf.dmcdn.net/sec2(Lan1f2NbhmeEzQcrAkd3Fs-U0PTlmNDo0GZvHn0eaYPbIDjG0eLOCThlar_twVO-qgjxU0Wb39yyaN6CcjjADI4jBzF9-jYthnE4V_pMjaY)/dm/3/x2lefik/d/live-0.m3u8#cell=lcfcstart=LIVE&end=END
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP SPORT",lequipe380
+https://live-c.cf.dmcdn.net/sec2(Lan1f2NbhmeEzQcrAkd3Fs-U0PTlmNDo0GZvHn0eaYPbIDjG0eLOCThlar_twVO-qgjxU0Wb39yyaN6CcjjADI4jBzF9-jYthnE4V_pMjaY)/dm/3/x2lefik/d/live-1.m3u8#cell=lcfcstart=LIVE&end=END
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP SPORT",lequipe480
+https://live-c.cf.dmcdn.net/sec2(Lan1f2NbhmeEzQcrAkd3Fs-U0PTlmNDo0GZvHn0eaYPbIDjG0eLOCThlar_twVO-qgjxU0Wb39yyaN6CcjjADI4jBzF9-jYthnE4V_pMjaY)/dm/3/x2lefik/d/live-2.m3u8#cell=lcfcstart=LIVE&end=END
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP SPORT",lequipe720
+https://live-c.cf.dmcdn.net/sec2(Lan1f2NbhmeEzQcrAkd3Fs-U0PTlmNDo0GZvHn0eaYPbIDjG0eLOCThlar_twVO-qgjxU0Wb39yyaN6CcjjADI4jBzF9-jYthnE4V_pMjaY)/dm/3/x2lefik/d/live-3.m3u8#cell=lcfcstart=LIVE&end=END
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP SPORT",lequipe1080
+https://live-c.cf.dmcdn.net/sec2(Lan1f2NbhmeEzQcrAkd3Fs-U0PTlmNDo0GZvHn0eaYPbIDjG0eLOCThlar_twVO-qgjxU0Wb39yyaN6CcjjADI4jBzF9-jYthnE4V_pMjaY)/dm/3/x2lefik/d/live-4.m3u8#cell=lcfcstart=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png"tvg-shift="202"group-title="BACK UP TNT",|FR| 6TER iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9364.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="199"group-title="BACK UP TNT",|FR| 6TER Backup NO_2 iptvlister.com
@@ -570,7 +580,6 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/62914.ts#checkedby:iptvli
 #EXTINF:-1 tvg-logo=""tvg-shift="5"group-title="BACK UP DIVERTISSEMENT",|FR| COMEDY CENTRAL
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-logo=""tvg-shift="5"group-title="BACK UP DIVERTISSEMENT",COMEDY CENTRAL
- FRANCE 5
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/13#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="425"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9292.ts#checkedby:iptvlister.com
@@ -2085,4 +2094,4 @@ http://915941857102846415.ofk0601.xyz:80/live/SERVICIO/@H8cQbTKrkQ/846415.ts#che
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="France Sport",FR EUROSPORT360 3 SD iptvlister.com
 http://915941857102834500.ofk0601.xyz:80/live/SERVICIO/@H8cQbTKrkQ/834500.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="France Sport",FR EUROSPORT360 5 FHD iptvlister.com
-http://915941857102840145.ofk0601.xyz:80/live/SERVICIO/@H8cQbTKrkQ/840145.ts#checkedby:iptvlister.com
+https://live-c.cf.dmcdn.net/sec2(Lan1f2NbhmeEzQcrAkd3Fs-U0PTlmNDo0GZvHn0eaYPbIDjG0eLOCThlar_twVO-qgjxU0Wb39yyaN6CcjjADI4jBzF9-jYthnE4V_pMjaY)/dm/3/x2lefik/d/live-4.m3u8#cell=lcfc
