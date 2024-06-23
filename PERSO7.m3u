@@ -39,7 +39,7 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15166.ts#checkedby:iptvli
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15182.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png"tvg-shift="20"group-title="FRANCE TNT",TF1 Series-Films
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51148.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png"tvg-shift="21"group-title="FRANCE SPORT",L’Équipe La chaine
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png"tvg-shift="21"group-title="FRANCE SPORT",L’Équipe
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/eqpetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png"tvg-shift="22"group-title="FRANCE TNT",6TER
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9364.ts#checkedby:iptvlister.com
@@ -69,31 +69,33 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15123.ts#checkedby:iptvlister.co
 http://2.onrev.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202631#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="35"group-title="FRANCE DIVERTISSEMENT",AB 1
 http://2.onrev.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202641#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="36"group-title="FRANCE DIVERTISSEMENT",WARNER TV Next
+#EXTINF:-1 tvg-logo=""tvg-shift="36"group-title="FRANCE DIVERTISSEMENT",WARNER TV
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9267.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="37"group-title="FRANCE DIVERTISSEMENT",13ème RUE
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58679#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/80d8phW/paris1ere.png"tvg-shift="38"group-title="FRANCE DIVERTISSEMENT",PARIS PREMIèRE
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/52#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="39"group-title="FRANCE DIVERTISSEMENT",COMEDIE+
+#EXTINF:-1 tvg-logo=""tvg-shift="39"group-title="FRANCE DIVERTISSEMENT",COMEDIE +
 http://2.onrev.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202639#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="40"group-title="FRANCE DIVERTISSEMENT",GAME ONE
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9271.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",PLANETE+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",PLANETE +
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2015#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTLdk-WPIlZSKHo3mQofvj4ARfIVbILgOgKhL2bsDgISy0US_ViIqWLs&s"tvg-shift=""group-title="FRANCE DIVERTISSEMENT",PLANETE+ CI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTLdk-WPIlZSKHo3mQofvj4ARfIVbILgOgKhL2bsDgISy0US_ViIqWLs&s"tvg-shift=""group-title="FRANCE DIVERTISSEMENT",PLANETE+ CRIME
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/65#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsuOA32QeqQTRFaF4EwdvN5X7cHdP_Z6NuIWL-G0CbRvfIabCwCghFRJvy&s"tvg-shift=""group-title="FRANCE DIVERTISSEMENT",PLANETE+ A&E
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsuOA32QeqQTRFaF4EwdvN5X7cHdP_Z6NuIWL-G0CbRvfIabCwCghFRJvy&s"tvg-shift=""group-title="FRANCE DIVERTISSEMENT",PLANETE + AVENTURE
 http://852171769901312801.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/312801.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",CRIME DISTRICT
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9296.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",NATIONAL GEOGRAPHIC
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9523.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",ANIMAUX
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9355.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",USHUAIA
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",USHUAIA TV
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9205.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png"tvg-shift="41"group-title="FRANCE DIVERTISSEMENT",TV5 MONDE
 http://852171769901318212.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/318212.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",TOUTE LHISTOIRE
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",TOUTE L HISTOIRE
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9208.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",HISTOIRE HD
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/76#checkedby:iptvlister.com
@@ -137,7 +139,7 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59874.ts#checkedby:iptvli
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15191.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="63"group-title="FRANCE SPORT",CANAL+ SPORT 360
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/136372.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="64"group-title="FRANCE SPORT",INFOSPORTPlus
+#EXTINF:-1 tvg-logo=""tvg-shift="64"group-title="FRANCE SPORT",INFOSPORT+
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9265.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="65"group-title="FRANCE SPORT",CANAL+ FOOT
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/136367.ts#checkedby:iptvlister.com
@@ -697,6 +699,8 @@ http://852171769901752934.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/752934.ts#chec
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9267.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="443"group-title="BACK UP DIVERTISSEMENT",|FR| WARNER TV FHD Backup NO_1 iptvlister.com
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9267.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR WARNER TV HD Backup NO_2 iptvlister.com
+http://422943004609752934.ofk0601.xyz:80/live/vi14677/V4wpdfb9Jjj6/752934.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="385"group-title="BACK UP DIVERTISSEMENT",|FR| WARNER TV FHD Backup NO_4 iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9267.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="141"group-title="BACK UP DIVERTISSEMENT",FR 13EME RUE HD iptvlister.com
@@ -721,6 +725,22 @@ http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9271.ts#checkedby:iptvlister.c
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9541.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="145"group-title="BACK UP DIVERTISSEMENT",FR TV5 MONDE INFO HEVC Backup NO_2 iptvlister.com
 http://852171769901318212.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/318212.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",TV5Monde France Belgique Suisse Monaco iptvlister.com
+http://premiumiptvmk.com:8080/F19236/516c41c7/879#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| TV5 MONDE iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9192.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR TV5 MONDE INFO HEVC iptvlister.com
+http://852171769901318212.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/318212.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| TV5 MONDE Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9192.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR TV5 MONDE HD Backup NO_1 iptvlister.com
+http://422943004609748967.ofk0601.xyz:80/live/vi14677/V4wpdfb9Jjj6/748967.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| TV5 MONDE FHD iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51170.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| TV5 MONDE FHD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51170.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR TV5 MONDE INFO FHD iptvlister.com
+http://852171769901752919.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/752919.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| PLANETE iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9236.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| PLANETE Backup NO_2 iptvlister.com
@@ -745,8 +765,6 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9234.ts#checkedby:iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9234.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTLdk-WPIlZSKHo3mQofvj4ARfIVbILgOgKhL2bsDgISy0US_ViIqWLs&s"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| PLANETE CI HD iptvlister.com
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/65#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR166 PLANETE+ CRIME HD iptvlister.com
-http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/28137#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| PLANETE CI FHD iptvlister.com
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/427#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR PLANETE+ CI FHD Backup NO_1 iptvlister.com
@@ -757,6 +775,12 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51127.ts#checkedby:iptvli
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51127.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| PLANETE CI FHD BKP Backup NO_4 iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51127.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR166 PLANETE+ CRIME HD iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/28137#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR166 PLANETE+ CRIME HD Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/28137#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR166 PLANETE+ CRIME HD Backup NO_2 iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/28137#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsuOA32QeqQTRFaF4EwdvN5X7cHdP_Z6NuIWL-G0CbRvfIabCwCghFRJvy&s"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR PLANETE A&E SD Backup NO_1 iptvlister.com
 http://852171769901312801.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/312801.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| PLANETE A&E iptvlister.com
@@ -779,6 +803,38 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51128.ts#checkedby:iptvli
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51128.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| PLANETE A&E FHD BKP Backup NO_4 iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51128.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9296.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR094 CRIME DISTRICT Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2185/99818221/28215#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51145.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51145.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT HD Backup NO_2 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/38#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT HD Backup NO_3 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51145.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT FHD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9562.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9296.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9296.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRksuWW76biUritd1x05hcTNOMmQ_N6ztozc62Q3lQ8sFljTRzY0O0rlMZG&s"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT FHD Backup NO_1 iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51136.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT FHD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9562.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT FHD Backup NO_3 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9562.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT FHD Backup NO_4 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51136.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| CRIME DISTRICT FHD Backup NO_6 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2009#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR CRIME DISTRICT FHD Backup NO_7 iptvlister.com
+http://852171769901312725.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/312725.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR Crime District Backup NO_3 iptvlister.com
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/6223#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| NATIONAL GEOGRAPHIC iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9368.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| NATIONAL GEOGRAPHIC Backup NO_2 iptvlister.com
@@ -1371,35 +1427,47 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62922.ts#checkedby:iptvlister.co
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1964#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="197"group-title="BACK UP MUSIC",CA (FR) Canal D SD P Backup NO_1 iptvlister.com
 http://cord-cutter.net:8080/k4Svp2/645504/57479#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",FR MCM Backup NO_4 iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE MUSIC",|FR| BET iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9256.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| BET HD our_prefix_end iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/158#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| BET FHD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9529.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",FR BET HD Backup NO_1 iptvlister.com
+http://852171769901752639.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/752639.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| BET FHD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9529.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| BET FHD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9529.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",FR MCM Backup NO_4 iptvlister.com
 http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/160303#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",|FR| MCM FHD Backup NO_1 iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| MCM FHD Backup NO_1 iptvlister.com
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2000#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",|FR| MCM TOP FHD Backup NO_1 iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| MCM TOP FHD Backup NO_1 iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9528.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",|FR| MCM TOP FHD Backup NO_2 iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| MCM TOP FHD Backup NO_2 iptvlister.com
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9528.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",|FR| MTV HD iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| MTV HD iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51109.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",|FR| MTV HD Backup NO_3 iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| MTV HD Backup NO_3 iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51109.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",|FR| MTV FHD iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| MTV FHD iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51108.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",|FR| MTV FHD Backup NO_2 iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| MTV FHD Backup NO_2 iptvlister.com
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51108.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",FR MTV CLASSICS iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",FR MTV CLASSICS iptvlister.com
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",|FR| MTV HITS HD iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| MTV HITS HD iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15146.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",|FR| MTV HITS HD Backup NO_1 iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| MTV HITS HD Backup NO_1 iptvlister.com
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15146.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",|FR| MTV HITS HD Backup NO_2 iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| MTV HITS HD Backup NO_2 iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15146.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",|FR| MTV HITS FHD iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| MTV HITS FHD iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9525.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP FRANCE MUSIC",|FR| MTV BASE HD iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP MUSIC",|FR| MTV BASE HD iptvlister.com
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/4799#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png"tvg-shift=""group-title="BACK UP FRANCE MUSIC",Pluto TV MTV Unplugged (720p) iptvlister.com
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png"tvg-shift=""group-title="BACK UP MUSIC",Pluto TV MTV Unplugged (720p) iptvlister.com
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP INFORMATION",FR FRANCE 24 Backup NO_8 iptvlister.com
 http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58791#checkedby:iptvlister.com
@@ -2099,5 +2167,47 @@ http://915941857102834500.ofk0601.xyz:80/live/SERVICIO/@H8cQbTKrkQ/834500.ts#che
 https://live-c.cf.dmcdn.net/sec2(Lan1f2NbhmeEzQcrAkd3Fs-U0PTlmNDo0GZvHn0eaYPbIDjG0eLOCThlar_twVO-qgjxU0Wb39yyaN6CcjjADI4jBzF9-jYthnE4V_pMjaY)/dm/3/x2lefik/d/live-4.m3u8#cell=lcfc
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",|FR| COMEDY CENTRAL FRANCE FHD iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/62914.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",|FR| COMEDY CENTRAL FRANCE FHD iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/62914.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",|FR| BET iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9256.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",|FR| BET HD our_prefix_end iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/158#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE MUSIC",|FR| BET FHD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9529.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="France",FR BET HD Backup NO_1 iptvlister.com
+http://852171769901752639.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/752639.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",|FR| BET FHD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9529.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",|FR| BET FHD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9529.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
+
