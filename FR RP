@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1 group-title="1",FR |RP| TF1 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15121.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="2",FR |RP| TF1 HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15121.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="3",FR |RP| TF1 HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15121.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="4",FR |RP| FRANCE 2 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15226.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="5",FR |RP| FRANCE 2 HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15226.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="6",FR |RP| FRANCE 3 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15169.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="7",FR |RP| FRANCE 3 HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15169.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="8",FR |RP| FRANCE 3 HD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15169.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="9",FR |RP| FRANCE 4 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15168.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="10",FR |RP| FRANCE 4 HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15168.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="11",FR |RP| FRANCE 5 HD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15167.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="12",FR |RP| FRANCE 5 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15167.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="13",FR |RP| FRANCE 5 HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15167.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="14",FR |RP| CANAL HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9324.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="15",FR |RP| CANAL HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9324.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="16",FR |RP| M6 HD iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15154.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="17",FR |RP| W9 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15111.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="18",FR |RP| W9 HD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15111.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="19",FR |RP| NRJ12 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9366.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="20",FR |RP| NRJ12 HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9366.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="21",FR |RP| NRJ12 HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9366.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="22",FR |RP| CSTAR HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9561.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="23",FR |RP| CSTAR HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9561.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="24",FR |RP| LCI HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9261.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="25",FR |RP| LCI HD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9261.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="26",FR |RP| TF1 SERIES FILMS HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51169.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="27",FR |RP| TF1 SERIES FILMS HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51169.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="28",FR |RP| TF1 SERIES FILMS HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51169.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="29",FR |RP| LEQUIPE 21 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15155.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="30",FR |RP| SYFY HD our_prefix_end iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15123.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="31",FR |RP| DISCOVERY HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15180.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="32",FR |RP| DISCOVERY HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15180.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="33",FR |RP| DISCOVERY INVESTIGATION HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9559.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="34",FR |RP| DISCOVERY INVESTIGATION HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9559.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="35",FR |RP| DISCOVERY INVESTIGATION HD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9559.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="36",FR |RP| PLANETE A&E HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15134.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="37",FR |RP| PLANETE A&E HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15134.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="38",FR |RP| PLANETE A&E HD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15134.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="39",FR |RP| NATIONAL GEOGRAPHIC HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15144.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="40",FR |RP| NATIONAL GEOGRAPHIC HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15144.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="41",FR |RP| DISCOVERY SCIENCE HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15179.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="42",FR |RP| DISCOVERY SCIENCE HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15179.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="43",FR |RP| SERIE CLUB HD our_prefix_end iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9226.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="44",FR |RP| SERIE CLUB HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9226.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="45",FR |RP| 13EME RUE HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15217.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="46",FR |RP| 13EME RUE HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15217.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="47",FR |RP| 13EME RUE HD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15217.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="48",FR |RP| TV BREIZH HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15116.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="49",FR |RP| TV BREIZH HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15116.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="50",FR |RP| E ENTERTAINMENT HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9285.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="51",FR |RP| EENTERTAINMENT HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9285.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="52",FR |RP| E ENTERTAINMENT HD iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9285.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="53",FR |RP| CARTOON NETWORK HD iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9371.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="54",FR |RP| CARTOON NETWORK HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9371.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="55",FR |RP| ACTION HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15214.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="56",FR |RP| ACTION HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15214.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="57",FR |RP| ACTION HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15214.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="58",FR |RP| CANAL SPORT HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9326.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="59",FR |RP| CANAL SPORT 360 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/136371.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="60",FR |RP| EUROSPORT 1 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9281.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="61",FR |RP| EUROSPORT 2 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9280.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="62",FR |RP| BEIN SPORT 1 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9340.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="63",FR |RP| BEIN SPORT 2 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9339.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="64",FR |RP| CANAL FORMULA1 HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/125119.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="65",FR |RP| CANAL FOOT HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/136368.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="66",FR |RP| CANAL CINEMA HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15195.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="67",FR |RP| CANAL CINEMA HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15195.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="68",FR |RP| CANAL GRAND ECRAN HD iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/131807.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="69",FR |RP| CANAL GRANDECRAN HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/131807.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="70",FR |RP| CANAL CINEMA HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15195.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="71",FR |RP| CINE PREMIER HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15230.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="72",FR |RP| CINE PREMIER HD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15230.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="73",FR |RP| CINE FRISSON HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15185.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="74",FR |RP| CINE FRISSON HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15185.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="75",FR |RP| CINE FRISSON HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15185.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="76",FR |RP| CANAL FAMILY HD our_prefix_end iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15193.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="77",FR |RP| CANAL SERIE HD iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15192.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="78",FR |RP| CANAL SERIE HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15192.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="79",FR |RP| CINE CLASSIC HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15187.ts#checkedby:iptvlister.com
+#EXTINF:-1 group-title="80",FR |RP| CINE CLASSIC HD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15187.ts#checkedby:iptvlister.com
