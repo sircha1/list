@@ -50,7 +50,7 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png"tvg-shift="25"group-title="FRANCE TNT",CHÉRIE 25
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15188.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="26"group-title="FRANCE DIVERTISSEMENT",COMEDY CENTRAL
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/62914.ts#checkedby:iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/2773#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="27"group-title="FRANCE DIVERTISSEMENT",DISCOVERY CHANNEL
 http://852171769901312728.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/312728.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="28"group-title="FRANCE DIVERTISSEMENT",DISCOVERY INVESTIGATION
@@ -559,6 +559,8 @@ http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/417#checkedb
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="128"group-title="BACK UP INFO",RMC TALK INFO
 https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR093 COMEDY CENTRAL Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/2773#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="2601"group-title="BACK UP DIVERTISSEMENT",COMEDY CENTRAL FRANCE FHD iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/62914.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="2602"group-title="BACK UP DIVERTISSEMENT",FR093 COMEDY CENTRAL iptvlister.com
