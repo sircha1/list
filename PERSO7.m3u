@@ -99,6 +99,8 @@ http://premiumiptvmk.com:8080/F19236/516c41c7/879#checkedby:iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9208.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="50"group-title="FRANCE DIVERTISSEMENT",HISTOIRE hd
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/76#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="FRANCE DIVERTISSEMENT",100% Docs
+https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="51"group-title="FRANCE CINEMA",CANAL+ BOX OFFICE
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/278399.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="52"group-title="FRANCE CINEMA",CANAL+ CINEMA
@@ -557,14 +559,16 @@ http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58689#checkedby:iptvlister.com
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/417#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="2506"group-title="BACK UP TNT",Chérie 25 (1080p) iptvlister.com
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="128"group-title="BACK UP INFO",RMC TALK INFO
-https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR093 COMEDY CENTRAL Backup NO_1 iptvlister.com
-http://abcnew.site:8880/D12m2668/24493676/2773#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2601"group-title="BACK UP DIVERTISSEMENT",COMEDY CENTRAL FRANCE FHD iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/62914.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="2602"group-title="BACK UP DIVERTISSEMENT",FR093 COMEDY CENTRAL iptvlister.com
 http://abcnew.site:8880/D12m2185/99818221/2773#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR093 COMEDY CENTRAL Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/2773#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| COMEDY CENTRAL HD iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/5385#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="2601"group-title="BACK UP DIVERTISSEMENT",COMEDY CENTRAL FRANCE FHD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/62914.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| COMEDY CENTRAL FRANCE FHD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62914.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="2603"group-title="BACK UP DIVERTISSEMENT",|FR| COMEDY CENTRAL FRANCE FHD Backup NO_2 iptvlister.com
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62914.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="2604"group-title="BACK UP DIVERTISSEMENT",|FR| COMEDY CENTRAL
@@ -881,6 +885,8 @@ http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15158.ts#checkedby:iptvlister.
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9536.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| HISTOIRE FHD Backup NO_1 iptvlister.com
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9536.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP DIVERTISSEMENT",100% Docs 
+https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="232"group-title="BACK UP CINEMA",|FR| CANAL BOX OFFICE HD Backup NO_1 iptvlister.com
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/278399.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA",|FR| CANAL BOX OFFICE HD Backup NO_2 iptvlister.com
@@ -1463,8 +1469,10 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9525.ts#checkedby:iptvlis
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/4799#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png"tvg-shift=""group-title="BACK UP MUSIC",Pluto TV MTV Unplugged (720p) iptvlister.com
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS&checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP INFORMATION",FR FRANCE 24 Backup NO_8 iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP INFO",FR FRANCE 24 Backup NO_8 iptvlister.com
 http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58791#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="128"group-title="BACK UP INFO",RMC TALK INFO
+https://dvvyqyxwlc4tn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n5yqxqrvnujl7/index.m3u8
 #EXTINF:-1 tvg-logo=""tvg-shift="388"group-title="",live.m3u8
 https://new.cache-stream.workers.dev/stream/UCT67YOMntJxfRnO_9bXDpvw/live.m3u8
 #EXTINF:-1 tvg-logo=""tvg-shift="389"group-title="",index.m3u8?start=LIVE&end=END
