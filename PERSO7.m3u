@@ -51,8 +51,8 @@ https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15188.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="26"group-title="FRANCE DIVERTISSEMENT",COMEDY CENTRAL
 http://abcnew.site:8880/D12m2668/24493676/2773#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="27"group-title="FRANCE DIVERTISSEMENT",DISCOVERY CHANNEL
-http://852171769901312728.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/312728.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="1"tvg-shift="2701"group-title="FRANCE DIVERTISSEMENT",DISCOVERY CHANNEL
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9292.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="28"group-title="FRANCE DIVERTISSEMENT",DISCOVERY INVESTIGATION
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9559.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="29"group-title="FRANCE DIVERTISSEMENT",Discovery Science
@@ -577,36 +577,86 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62914.ts#checkedby:iptvlister.co
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-logo=""tvg-shift="2605"group-title="BACK UP DIVERTISSEMENT",COMEDY CENTRAL
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/13#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2701"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY iptvlister.com
+#EXTINF:-1 tvg-logo="1"tvg-shift="2701"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9292.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2702"group-title="BACK UP DIVERTISSEMENT",FR |RP| DISCOVERY HD iptvlister.com
+#EXTINF:-1 tvg-logo="2"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY HD iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/494#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="3"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR095 DISCOVERY CHANNEL Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/28214#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="4"tvg-shift="2702"group-title="BACK UP DIVERTISSEMENT",FR |RP| DISCOVERY HD iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15180.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2703"group-title="BACK UP DIVERTISSEMENT",FR DISCOVERY CHANNEL HD Backup NO_4 iptvlister.com
-http://852171769901312728.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/312728.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2704"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY CHANNEL HD iptvlister.com
+#EXTINF:-1 tvg-logo="5"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR |RP| DISCOVERY HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15180.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="6"tvg-shift="2704"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY CHANNEL HD iptvlister.com
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/69#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2705"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY FHD Backup NO_2 iptvlister.com
+#EXTINF:-1 tvg-logo="7"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR DISCOVERY CHANNEL HD Backup NO_1 iptvlister.com
+http://852171769901312728.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/312728.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="8"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY FHD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9560.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="9"tvg-shift="2705"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY FHD Backup NO_2 iptvlister.com
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/429#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2801"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY INVESTIGATION Backup NO_1 iptvlister.com
+#EXTINF:-1 tvg-logo="10"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY FHD Backup NO_3 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9560.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="11"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY INVESTIGATION iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51141.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="12"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY INVESTIGATION Backup NO_1 iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51141.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2802"group-title="BACK UP DIVERTISSEMENT",FR |RP| DISCOVERY INVESTIGATION HD Backup NO_1 iptvlister.com
+#EXTINF:-1 tvg-logo="13"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY INVESTIGATION HD iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/72#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="14"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR |RP| DISCOVERY INVESTIGATION HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9559.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="15"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR |RP| DISCOVERY INVESTIGATION HD Backup NO_1 iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9559.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2803"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY INVESTIGATION FHD iptvlister.com
+#EXTINF:-1 tvg-logo="16"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR098 DISCOVERY INVESTIGATION iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/28211#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="17"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR |RP| DISCOVERY INVESTIGATION HD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9559.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="18"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY INVESTIGATION FHD iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51142.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="19"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY INVESTIGATION FHD our_prefix_end iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51142.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2901"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY SCIENCE iptvlister.com
+#EXTINF:-1 tvg-logo="20"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY INVESTIGATION FHD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51142.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="21"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY INVESTIGATION FHD Backup NO_3 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2010#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="22"tvg-shift="2901"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY SCIENCE iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9291.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2902"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY SCIENCE HD iptvlister.com
+#EXTINF:-1 tvg-logo="23"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY SCIENCE Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9291.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="24"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY SCIENCE Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9291.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="25"tvg-shift="2902"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY SCIENCE HD iptvlister.com
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/70#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2903"group-title="BACK UP DIVERTISSEMENT",FR |RP| DISCOVERY SCIENCE HD Backup NO_1 iptvlister.com
+#EXTINF:-1 tvg-logo="26"tvg-shift="2903"group-title="BACK UP DIVERTISSEMENT",FR |RP| DISCOVERY SCIENCE HD Backup NO_1 iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15179.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2904"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY SCIENCE FHD iptvlister.com
+#EXTINF:-1 tvg-logo="27"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY SCIENCE FHD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9558.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="28"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY SCIENCE FHD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9558.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="29"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY SCIENCE FHD Backup NO_3 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/430#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="30"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY SCIENCE FHD iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9558.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2905"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY FAMILY HD Backup NO_1 iptvlister.com
+#EXTINF:-1 tvg-logo="31"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR |RP| DISCOVERY SCIENCE HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15179.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="32"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR099 DISCOVERY SCI FI iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/28208#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="33"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR100 DISCOVERY SCIENCE Backup NO_2 iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/28207#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="34"tvg-shift="2904"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY SCIENCE FHD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9558.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="35"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY FAMILY HD iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/30662.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2906"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY FAMILY FHD iptvlister.com
+#EXTINF:-1 tvg-logo="36"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY FAMILY HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30662.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="37"tvg-shift="2906"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY FAMILY FHD iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51143.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2907"group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY FAMILY FHD Backup NO_2 iptvlister.com
+#EXTINF:-1 tvg-logo="38"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY FAMILY FHD Backup NO_1 iptvlister.com
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51143.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="39"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",|FR| DISCOVERY FAMILY FHD Backup NO_2 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2758#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="40"tvg-shift=""group-title="BACK UP DIVERTISSEMENT",FR DISCOVERY FAMILY FHD Backup NO_4 iptvlister.com
+http://422943004609748906.ofk0601.xyz:80/live/vi14677/V4wpdfb9Jjj6/748906.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="3001"group-title="BACK UP DIVERTISSEMENT",FR |RP| SERIE CLUB HD iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9226.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="3002"group-title="BACK UP DIVERTISSEMENT",FR |RP| SERIE CLUB HD Backup NO_2 iptvlister.com
@@ -972,8 +1022,6 @@ http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9328.ts#checkedby:iptvlister.c
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wfLDxl3xCRqjF9Jfplg4b3RP48J.jpg"tvg-shift=""group-title="BACK UP CINEMA",FR CANAL SERIES FHD iptvlister.com
 http://852171769901547084.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/547084.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="254"group-title="BACK UP CINEMA",|FR| CANAL SERIES FHD HEVC iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51162.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="150"group-title="BACK UP CINEMA",|FR| CANAL SERIES FHD HEVC iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51162.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA",|FR| CINE CLASSIC iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9311.ts#checkedby:iptvlister.com
@@ -2207,3 +2255,81 @@ http://852171769901752639.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/752639.ts#chec
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9529.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",|FR| BET FHD Backup NO_2 iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9529.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="1"tvg-shift=""group-title="",|FR| DISCOVERY HD iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/494#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="2"tvg-shift=""group-title="FRANCE CULTURE",FR |RP| DISCOVERY HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15180.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="3"tvg-shift=""group-title="",FR |RP| DISCOVERY HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15180.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="4"tvg-shift=""group-title="FR Ent",FR095 DISCOVERY CHANNEL Backup NO_1 iptvlister.com
+http://abcnew.site:8880/D12m2668/24493676/28214#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="5"tvg-shift=""group-title="France HEVC",FR DISCOVERY CHANNEL HD Backup NO_1 iptvlister.com
+http://852171769901312728.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/312728.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="6"tvg-shift=""group-title="",|FR| DISCOVERY CHANNEL HD our_prefix_end iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/69#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="7"tvg-shift=""group-title="FRANCE CULTURE",|FR| DISCOVERY FHD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9560.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="8"tvg-shift=""group-title="",|FR| DISCOVERY FHD Backup NO_2 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/429#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="9"tvg-shift=""group-title="",|FR| DISCOVERY FHD Backup NO_3 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9560.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="10"tvg-shift=""group-title="",|FR| DISCOVERY iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9292.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="11"tvg-shift=""group-title="",|FR| DISCOVERY FAMILY FHD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51143.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="12"tvg-shift=""group-title="",|FR| DISCOVERY FAMILY FHD Backup NO_2 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2758#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="13"tvg-shift=""group-title="France",FR DISCOVERY FAMILY FHD Backup NO_4 iptvlister.com
+http://422943004609748906.ofk0601.xyz:80/live/vi14677/V4wpdfb9Jjj6/748906.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="14"tvg-shift=""group-title="FRANCE CULTURE",|FR| DISCOVERY FAMILY FHD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51143.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="15"tvg-shift=""group-title="",|FR| DISCOVERY FAMILY HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30662.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="16"tvg-shift=""group-title="",|FR| DISCOVERY FAMILY HD iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/30662.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="17"tvg-shift=""group-title="",|FR| DISCOVERY SCIENCE Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9291.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="18"tvg-shift=""group-title="",|FR| DISCOVERY SCIENCE Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9291.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="19"tvg-shift=""group-title="",|FR| DISCOVERY SCIENCE FHD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9558.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="20"tvg-shift=""group-title="",|FR| DISCOVERY SCIENCE FHD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9558.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="21"tvg-shift=""group-title="",|FR| DISCOVERY SCIENCE FHD Backup NO_3 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/430#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="22"tvg-shift=""group-title="FRANCE CULTURE",|FR| DISCOVERY SCIENCE FHD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9558.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="23"tvg-shift=""group-title="",|FR| DISCOVERY SCIENCE HD iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/70#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="24"tvg-shift=""group-title="FRANCE CULTURE",|FR| DISCOVERY SCIENCE iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9291.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="25"tvg-shift=""group-title="FRANCE CULTURE",FR |RP| DISCOVERY SCIENCE HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15179.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="26"tvg-shift=""group-title="FR Ent",FR099 DISCOVERY SCI FI iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/28208#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="27"tvg-shift=""group-title="",FR |RP| DISCOVERY SCIENCE HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15179.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="28"tvg-shift=""group-title="FR Ent",FR100 DISCOVERY SCIENCE Backup NO_2 iptvlister.com
+http://yesimes.oknirvana.club:8880/D12m2555/52433416/28207#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="29"tvg-shift=""group-title="FRANCE CULTURE",|FR| DISCOVERY INVESTIGATION iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51141.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="30"tvg-shift=""group-title="",|FR| DISCOVERY INVESTIGATION Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51141.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="31"tvg-shift=""group-title="",|FR| DISCOVERY INVESTIGATION HD iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/72#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="32"tvg-shift=""group-title="FRANCE CULTURE",FR |RP| DISCOVERY INVESTIGATION HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9559.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="33"tvg-shift=""group-title="",FR |RP| DISCOVERY INVESTIGATION HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9559.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="34"tvg-shift=""group-title="FR Ent",FR098 DISCOVERY INVESTIGATION iptvlister.com
+http://abcnew.site:8880/DAALM1923/C3ggHrsmbK/28211#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="35"tvg-shift=""group-title="",FR |RP| DISCOVERY INVESTIGATION HD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9559.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="36"tvg-shift=""group-title="",|FR| DISCOVERY INVESTIGATION FHD iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51142.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="37"tvg-shift=""group-title="FRANCE CULTURE",|FR| DISCOVERY INVESTIGATION FHD our_prefix_end iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51142.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="38"tvg-shift=""group-title="",|FR| DISCOVERY INVESTIGATION FHD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51142.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="39"tvg-shift=""group-title="",|FR| DISCOVERY INVESTIGATION FHD Backup NO_3 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2010#checkedby:iptvlister.com
