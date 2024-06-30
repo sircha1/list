@@ -39,7 +39,7 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15166.ts#checkedby:iptvli
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15182.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png"tvg-shift="20"group-title="FRANCE TNT",TF1 Series-Films
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51148.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png"tvg-shift="21"group-title="FRANCE SPORT",LA CHAINE L’Équipe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png"tvg-shift="21"group-title="FRANCE SPORT",LA CHAINE L'ÉQUIPE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/eqpetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png"tvg-shift="22"group-title="FRANCE TNT",6TER
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9364.ts#checkedby:iptvlister.com
@@ -89,7 +89,7 @@ http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/65#checkedby
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2015#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="44"group-title="FRANCE DIVERTISSEMENT",CRIME DISTRICT
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9296.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="45"group-title="FRANCE DIVERTISSEMENT",NATIONAL GEOGRAPHIC FR
+#EXTINF:-1 tvg-logo=""tvg-shift="45"group-title="FRANCE DIVERTISSEMENT",Canalsat NATIONAL GEO
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9523.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="46"group-title="FRANCE DIVERTISSEMENT",ANIMAUX
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9355.ts#checkedby:iptvlister.com
@@ -123,7 +123,7 @@ http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1996#checked
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9309.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="60"group-title="FRANCE CINEMA",CINé+ FAMIZ
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9306.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="278"group-title="FRANCE CINEMA",CINE FRISSON
+#EXTINF:-1 tvg-logo=""tvg-shift="278"group-title="FRANCE CINEMA",CINé+ FRISSON
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9304.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="61"group-title="FRANCE CINEMA",CINé+ PREMIER
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9300.ts#checkedby:iptvlister.com
