@@ -39,7 +39,7 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15166.ts#checkedby:iptvli
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15182.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png"tvg-shift="20"group-title="FRANCE TNT",TF1 Series-Films
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51148.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png"tvg-shift="21"group-title="FRANCE SPORT",L’Équipe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png"tvg-shift="21"group-title="FRANCE SPORT",LA CHAINE L’Équipe
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/eqpetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png"tvg-shift="22"group-title="FRANCE TNT",6TER
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9364.ts#checkedby:iptvlister.com
@@ -75,7 +75,7 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9267.ts#checkedby:iptvlis
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58679#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://i.ibb.co/80d8phW/paris1ere.png"tvg-shift="38"group-title="FRANCE DIVERTISSEMENT",PARIS PREMIèRE
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/52#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="39"group-title="FRANCE DIVERTISSEMENT",COMEDIE +
+#EXTINF:-1 tvg-logo=""tvg-shift="39"group-title="FRANCE DIVERTISSEMENT",COMEDIE+
 http://2.onrev.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/202639#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="40"group-title="FRANCE DIVERTISSEMENT",GAME ONE
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9271.ts#checkedby:iptvlister.com
@@ -83,13 +83,13 @@ http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9271.ts#checkedby:iptvlister.c
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9257.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsuOA32QeqQTRFaF4EwdvN5X7cHdP_Z6NuIWL-G0CbRvfIabCwCghFRJvy&s"tvg-shift="43"group-title="FRANCE DIVERTISSEMENT",Planète+
 http://852171769901312801.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/312801.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTLdk-WPIlZSKHo3mQofvj4ARfIVbILgOgKhL2bsDgISy0US_ViIqWLs&s"tvg-shift="42"group-title="FRANCE DIVERTISSEMENT",PlanÃ¨te+ CI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSTLdk-WPIlZSKHo3mQofvj4ARfIVbILgOgKhL2bsDgISy0US_ViIqWLs&s"tvg-shift="42"group-title="FRANCE DIVERTISSEMENT",Planète+ CI
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/65#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="41"group-title="FRANCE DIVERTISSEMENT",PlanÃ¨te+ A and E
+#EXTINF:-1 tvg-logo=""tvg-shift="41"group-title="FRANCE DIVERTISSEMENT",Planète+ A and E
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/2015#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="44"group-title="FRANCE DIVERTISSEMENT",CRIME DISTRICT
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9296.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="45"group-title="FRANCE DIVERTISSEMENT",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo=""tvg-shift="45"group-title="FRANCE DIVERTISSEMENT",NATIONAL GEOGRAPHIC FR
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9523.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="46"group-title="FRANCE DIVERTISSEMENT",ANIMAUX
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9355.ts#checkedby:iptvlister.com
@@ -123,6 +123,8 @@ http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1996#checked
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9309.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="60"group-title="FRANCE CINEMA",CINé+ FAMIZ
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9306.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="278"group-title="FRANCE CINEMA",CINE FRISSON
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9304.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="61"group-title="FRANCE CINEMA",CINé+ PREMIER
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9300.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="62"group-title="FRANCE CINEMA",A LA CARTE 10
@@ -149,9 +151,9 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9265.ts#checkedby:iptvlis
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/136367.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="73"group-title="FRANCE SPORT",CANAL+ MotoGP
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15147.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="74"group-title="FRANCE SPORT",EUROSPORT 1
+#EXTINF:-1 tvg-logo=""tvg-shift="74"group-title="FRANCE SPORT",EUROSPORT FR
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/97#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="75"group-title="FRANCE SPORT",EUROSPORT 2
+#EXTINF:-1 tvg-logo=""tvg-shift="75"group-title="FRANCE SPORT",EUROSPORT 2 FR
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9548.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="76"group-title="FRANCE SPORT",BEIN SPORTS 1
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58753#checkedby:iptvlister.com
@@ -1123,10 +1125,10 @@ http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/463#checkedb
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/463#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="275"group-title="BACK UP CINEMA",FR CINE FAMIZ FHD Backup NO_7 iptvlister.com
 http://cord-cutter.net:8080/k4Svp2/645504/160308#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA",|FR| CINE FRISSON Backup NO_1 iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9304.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="278"group-title="BACK UP CINEMA",|FR| CINE FRISSON iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9304.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA",|FR| CINE FRISSON Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9304.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA",FR |RP| CINE FRISSON HD iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15185.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA",FR |RP| CINE FRISSON HD Backup NO_1 iptvlister.com
@@ -1553,7 +1555,7 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62922.ts#checkedby:iptvlister.co
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15146.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="MUSIQUE",MTV CLASSICS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="MUSIQUE",MTV BASE 
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="MUSIQUE",MTV BASE
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/4799#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="MUSIQUE",BET
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9256.ts#checkedby:iptvlister.com
@@ -2293,91 +2295,3 @@ http://852171769901752639.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/752639.ts#chec
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9529.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",|FR| BET FHD Backup NO_2 iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9529.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",
-
