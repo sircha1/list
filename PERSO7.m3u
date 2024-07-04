@@ -127,14 +127,12 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9306.ts#checkedby:iptvlis
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9304.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="61"group-title="🇫🇷 CINEMA",CINé+ PREMIER
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9300.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="🇫🇷 CINEMA",OCS GO CINEMA 1
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1682#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="🇫🇷 CINEMA",OCS GO CINEMA 2 
+http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/56509#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="62"group-title="🇫🇷 CINEMA",A LA CARTE 10
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/923#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="63"group-title="🇫🇷 CINEMA",OCS MAX
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9244.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="64"group-title="🇫🇷 CINEMA",OCS PULP
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/271879.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="65"group-title="🇫🇷 CINEMA",OCS GEANTS
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15139.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="66"group-title="🇫🇷 CINEMA",POLAR+
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9564.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="67"group-title="🇫🇷 CINEMA",PARAMOUNT CHANNEL
@@ -593,10 +591,10 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/62914.ts#checkedby:iptvli
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62914.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="2603"group-title="BACK UP DIVERTISSEMENT 🇫🇷",|FR| COMEDY CENTRAL FRANCE FHD Backup NO_2 iptvlister.com
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/62914.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="2604"group-title="BACK UP DIVERTISSEMENT 🇫🇷",|FR| COMEDY CENTRAL
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-logo=""tvg-shift="2605"group-title="BACK UP DIVERTISSEMENT 🇫🇷",COMEDY CENTRAL
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/13#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="2604"group-title="BACK UP DIVERTISSEMENT 🇫🇷",|FR| COMEDY CENTRAL
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr5.m3u8
 #EXTINF:-1 tvg-logo="1"tvg-shift="2701"group-title="BACK UP DIVERTISSEMENT 🇫🇷",|FR| DISCOVERY iptvlister.com
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9292.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo="2"tvg-shift=""group-title="BACK UP DIVERTISSEMENT 🇫🇷",|FR| DISCOVERY HD iptvlister.com
@@ -1155,86 +1153,14 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9571.ts#checkedby:iptvlister.com
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15230.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| CINE PREMIER FHD Backup NO_4 iptvlister.com
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1994#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",FR OCS GO CINEMA 1 HD iptvlister.com
+http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/56508#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS GO CINE 1 HD iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/1682#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",FR OCS GO CINEMA 2 HD iptvlister.com
+http://agramat.ro:8080/cuzuban_ionut/U3reV7nqj0/56509#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="156"group-title="BACK UP CINEMA 🇫🇷",|FR| A LA CARTE 10 HD iptvlister.com
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/923#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="331"group-title="BACK UP CINEMA 🇫🇷",FR OCS CITY FHD Backup NO_3 iptvlister.com
-http://852171769901339083.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/339083.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CITY iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9246.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="330"group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CITY Backup NO_2 iptvlister.com
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9246.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CITY HD iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15223.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CITY HD Backup NO_1 iptvlister.com
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15223.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CITY HD Backup NO_2 iptvlister.com
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/29#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUU8YuKioz9yaZCK5uXC6ePTpvfFRue6dE_OZk_ERgwuAxcQsAgaVLLkk&s"tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CITY FHD BKP iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51132.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CITY FHD Backup NO_2 iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9517.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CITY FHD BKP Backup NO_2 iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51132.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="332"group-title="BACK UP CINEMA 🇫🇷",|FR| OCS GEANTS HD Backup NO_2 iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15139.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="333"group-title="BACK UP CINEMA 🇫🇷",|FR| OCS GEANTS HD Backup NO_3 iptvlister.com
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/31#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS GEANT iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9245.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="334"group-title="BACK UP CINEMA 🇫🇷",|FR| OCS GEANTS HD iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15139.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS GEANTS HD Backup NO_1 iptvlister.com
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15139.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS GEANT Backup NO_1 iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9245.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS GEANT Backup NO_2 iptvlister.com
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9245.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS GEANTS FHD iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9516.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS GEANTS FHD BKP iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51131.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS GEANTS FHD Backup NO_2 iptvlister.com
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9516.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS GEANTS FHD Backup NO_3 iptvlister.com
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/468#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS MAX HD iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15222.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS MAX HD our_prefix_end iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15222.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS MAX FHD iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9515.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS MAX HD Backup NO_2 iptvlister.com
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15222.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS MAX iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9244.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="335"group-title="BACK UP CINEMA 🇫🇷",|FR| OCS MAX Backup NO_1 iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9244.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="157"group-title="BACK UP CINEMA 🇫🇷",|FR| OCS MAX HD iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15222.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS MAX HD Backup NO_1 iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15222.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS MAX HD Backup NO_3 iptvlister.com
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15222.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="336"group-title="BACK UP CINEMA 🇫🇷",|FR| OCS MAX Backup NO_2 iptvlister.com
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9244.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="337"group-title="BACK UP CINEMA 🇫🇷",|FR| OCS MAX FHD Backup NO_1 iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9515.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="339"group-title="BACK UP CINEMA 🇫🇷",|FR| OCS PULP HD iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/271879.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="329"group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CHOC iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9247.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CHOC HD Backup NO_1 iptvlister.com
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15140.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="328"group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CHOC HD Backup NO_2 iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15140.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CHOC FHD BKP iptvlister.com
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51133.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CHOC FHD iptvlister.com
-http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9518.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift="327"group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CHOC FHD Backup NO_1 iptvlister.com
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9518.ts#checkedby:iptvlister.com
-#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="BACK UP CINEMA 🇫🇷",|FR| OCS CHOC FHD Backup NO_2 iptvlister.com
-http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/470#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="162"group-title="BACK UP CINEMA 🇫🇷",|FR| POLAR HD iptvlister.com
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9564.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift="343"group-title="BACK UP CINEMA 🇫🇷",|FR| POLAR FHD Backup NO_3 iptvlister.com
@@ -2291,3 +2217,81 @@ http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9529.ts#checkedby:iptvlister.c
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9582.ts#checkedby:iptvlister.com
 #EXTINF:-1 tvg-logo=""tvg-shift=""group-title="",FR CANAL CINEMA HD Backup NO_2 iptvlister.com
 http://2hubs.ddns.net:25461/sxxexch/LaEItPtmAn/58642#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="331"group-title="OLD 🇫🇷",FR OCS CITY FHD Backup NO_3 iptvlister.com
+http://852171769901339083.ofg0316.xyz:80/play/ja928554/k6hDFv3skX/339083.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS CITY iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9246.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="330"group-title="OLD 🇫🇷",|FR| OCS CITY Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9246.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS CITY HD iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15223.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS CITY HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15223.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS CITY HD Backup NO_2 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/29#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUU8YuKioz9yaZCK5uXC6ePTpvfFRue6dE_OZk_ERgwuAxcQsAgaVLLkk&s"tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS CITY FHD BKP iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51132.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS CITY FHD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9517.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS CITY FHD BKP Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/51132.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="332"group-title="OLD 🇫🇷",|FR| OCS GEANTS HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15139.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="333"group-title="OLD 🇫🇷",|FR| OCS GEANTS HD Backup NO_3 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/31#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS GEANT iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9245.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="334"group-title="OLD 🇫🇷",|FR| OCS GEANTS HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15139.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS GEANTS HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15139.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS GEANT Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9245.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS GEANT Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9245.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS GEANTS FHD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9516.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS GEANTS FHD BKP iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51131.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS GEANTS FHD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9516.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS GEANTS FHD Backup NO_3 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/468#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS MAX HD iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15222.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS MAX HD our_prefix_end iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15222.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS MAX FHD iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9515.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS MAX HD Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15222.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS MAX iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9244.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="335"group-title="OLD 🇫🇷",|FR| OCS MAX Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9244.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="157"group-title="OLD 🇫🇷",|FR| OCS MAX HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15222.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS MAX HD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15222.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS MAX HD Backup NO_3 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15222.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="336"group-title="OLD 🇫🇷",|FR| OCS MAX Backup NO_2 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9244.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="337"group-title="OLD 🇫🇷",|FR| OCS MAX FHD Backup NO_1 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9515.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="339"group-title="OLD 🇫🇷",|FR| OCS PULP HD iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/271879.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="329"group-title="OLD 🇫🇷",|FR| OCS CHOC iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9247.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS CHOC HD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15140.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="328"group-title="OLD 🇫🇷",|FR| OCS CHOC HD Backup NO_2 iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/15140.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS CHOC FHD BKP iptvlister.com
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51133.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS CHOC FHD iptvlister.com
+http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9518.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift="327"group-title="OLD 🇫🇷",|FR| OCS CHOC FHD Backup NO_1 iptvlister.com
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9518.ts#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo=""tvg-shift=""group-title="OLD 🇫🇷",|FR| OCS CHOC FHD Backup NO_2 iptvlister.com
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/470#checkedby:iptvlister.com
