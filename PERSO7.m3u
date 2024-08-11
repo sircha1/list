@@ -1,4 +1,4 @@
-#EXTM3U
+http://ipro.webvps.de:25443/get.php?username=o1tEXUfCO0&password=QE4I5CeVb1&type=m3u#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png"group-title="🇫🇷 ",TF1
 http://2.onrev.xyz:80/mag00:1A:79:5B:97:AC/5mUJTRYVL9/192831
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png"group-title="🇫🇷 ",FRANCE 2
@@ -105,7 +105,6 @@ http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/433
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9523.ts
 #EXTINF:-1 tvg-logo=""group-title="🇫🇷",ANIMAUX
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15213.ts
-
 #EXTINF:-1 tvg-logo=""group-title="🇫🇷",USHUAIA TV
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9205.ts
 #EXTINF:-1 tvg-logo=""group-title="🇫🇷",100% Docs
@@ -474,6 +473,10 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9521.ts
 http://tv.pro-ott.com:25443/live/HAJG6/k7bKPqg05y/9521.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg"group-title="INFO 🇫🇷",LE MÉDIA TV (backup ok)
 https://ythls.armelin.one/channel/UCT67YOMntJxfRnO_9bXDpvw.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg"group-title="INFO 🇫🇷",le media
+https://www.youtube.com/watch?v=pO_dAyHKgDw
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBqk6mK/lemedia.jpg"group-title="INFO 🇫🇷",Le Media
+https://www.youtube.com/watch?v=pO_dAyHKgD
 #EXTINF:-1 tvg-logo=""group-title="INFO 🇫🇷",Le Media
 https://new.cache-stream.workers.dev/stream/UCT67YOMntJxfRnO_9bXDpvw/live.m3u8
 #EXTINF:-1 tvg-logo=""group-title="TNT 🇫🇷",FRANCE 4 Backup NO_1
@@ -490,8 +493,6 @@ http://cord-cutter.net:8080/Shaymom/w3Q2xasDOq/160299
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9544.ts
 #EXTINF:-1 tvg-logo=""group-title="TNT 🇫🇷",|FR| FRANCE 4
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9274.ts
-#EXTINF:-1 tvg-logo=""group-title="INFO 🇫🇷",index.m3u8?start=LIVE&end=END
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png"group-title="INFO 🇫🇷",BFM TV
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
 #EXTINF:-1 tvg-logo=""group-title="INFO 🇫🇷",|FR| CNEWS FHD Backup NO_1
@@ -1344,8 +1345,6 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9549.ts
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/11031
 #EXTINF:-1 tvg-logo=""group-title="SPORT 🇫🇷",|FR| EUROSPORT 1 FHD Backup NO_4
 http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/447
-#EXTINF:-1 tvg-logo=""group-title="SPORT 🇫🇷",Eurosport 1 CE HD
-http://saveukraine.only4.tv/7206/video.m3u8?token=saveUkrain&checkedby:
 #EXTINF:-1 tvg-logo=""group-title="SPORT 🇫🇷",|FR| EUROSPORT 2
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9279.ts
 #EXTINF:-1 tvg-logo=""group-title="SPORT 🇫🇷",|FR| EUROSPORT 2 HD
